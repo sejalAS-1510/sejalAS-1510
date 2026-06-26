@@ -1,18 +1,57 @@
 <h1 align="center">Hi 👋, I'm Sejal Shinkar</h1>
 
 <h3 align="center">
-Full-Stack Developer • MERN Stack • Java • Open Source Enthusiast
+Information Technology Engineering Student • Full-Stack Developer • MERN Stack • Java
 </h3>
 
 <p align="center">
-Passionate about building impactful web applications and continuously learning new technologies.
+Passionate about building scalable web applications, solving real-world problems through technology, and continuously learning through projects, open-source collaboration, and hackathons.
 </p>
 
-## 👋 About Me<br><br>I'm a third-year Information Technology Engineering student passionate about building technology that solves real-world problems. I enjoy transforming ideas into scalable web applications while continuously improving my problem-solving and software development skills.<br><br>* 🚀 Building full-stack web applications with the **MERN Stack**<br>* 📚 Strengthening my **Data Structures & Algorithms** skills using **Java**<br>* 🌱 Exploring **Backend Development**, **System Design fundamentals**, and modern web technologies<br>* 💡 Interested in software engineering, developer tools, and impactful digital products<br>* 🤝 Open to collaborating on open-source projects, hackathons, and innovative web applications<br>* 🎯 Currently focused on becoming internship- and placement-ready through consistent learning and hands-on projects<br>* 💬 Happy to discuss **React, JavaScript, Node.js, Express.js, MongoDB, REST APIs, Git, GitHub, and DSA**<br>* ⚡ I believe the best way to learn is by building, experimenting, and continuously improving.
+## 👋 About Me<br><br>I'm a third-year **Information Technology Engineering** student with a strong interest in **Full-Stack Development** and **Software Engineering**. I enjoy transforming ideas into practical, user-centric applications while continuously improving my problem-solving and software development skills.<br><br>* 🚀 Building scalable full-stack web applications using the **MERN Stack**<br>* 📚 Strengthening my **Data Structures & Algorithms** skills with **Java**<br>* 🌱 Exploring **Backend Development**, **System Design**, and modern web technologies<br>* 💡 Passionate about creating user-centric, impactful, and scalable digital products<br>* 🤝 Open to collaborating on **open-source projects**, **hackathons**, and innovative software solutions<br>* 💬 Ask me about **React, JavaScript, Node.js, Express.js, MongoDB, REST APIs, Git, GitHub, and DSA**<br>* ⚡ *I believe the best way to learn is by building, experimenting, and continuously improving.*
 
+## 💼 Experience
+
+### 🧠 TPOBridge — Technology & Product Pre-Intern (Remote)
+- Worked on product testing and identifying usability issues in a web platform.
+- Designed test cases and documented bugs for improving system reliability.
+
+---
+
+### 🤖 Infosys Springboard — Artificial Intelligence Intern (Virtual)
+- Explored Generative AI, NLP, and prompt engineering concepts.
+- Worked on structured learning modules involving GPT-based workflows.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌊 CiviQ – Citizen Issue Management Platform
+MERN-based platform for reporting and managing civic issues with role-based access control and intelligent task assignment.
+
+🔗 [GitHub](https://github.com/sejalAS-1510/CiviQ-Project) • [Live Demo](https://civiqproject.vercel.app/)
+
+---
+
+### 🎓 Nxt2Campus – College Predictor
+A full-stack web app that predicts colleges based on MHT-CET percentile and historical cutoff data.
+
+🔗 [GitHub](https://github.com/sejalAS-1510/college-eligibility) • [Live Demo](https://nxt2campus.onrender.com/)
+
+---
+
+### 📈 EquiTrack – Real-Time Stock Tracker
+Live stock tracking dashboard with charts, API integration, and search functionality.
+
+🔗 [GitHub](https://github.com/sejalAS-1510/Equitrack) • [Live Demo](https://equitrack-sepia.vercel.app/)
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sejalshinkar.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sejal-shinkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sejalshinkar1510@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sejalshinkar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sejal-shinkar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)]((https://leetcode.com/u/sejal_shinkar/))
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)]((https://www.codechef.com/users/sejalshinkar15))
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)]((https://www.geeksforgeeks.org/profile/sejalshinkar15))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sejalshinkar1510@gmail.com)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
