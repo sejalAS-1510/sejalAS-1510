@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sejal Shinkar</h1>
 
 <h3 align="center">
-Information Technology Engineering Student • Full-Stack Developer • MERN Stack • Java
+Information Technology Engineering Student | Full-Stack Developer | MERN Stack | Java | Problem Solver
 </h3>
 
 <p align="center">
@@ -13,14 +13,14 @@ Passionate about building scalable web applications, solving real-world problems
 ## 💼 Experience
 
 ### 🧠 TPOBridge — Technology & Product Pre-Intern (Remote)
-- Worked on product testing and identifying usability issues in a web platform.
-- Designed test cases and documented bugs for improving system reliability.
+- Performed product testing and identified usability issues in a web platform.
+- Designed test cases and documented bugs to improve system reliability.
 
 ---
 
 ### 🤖 Infosys Springboard — Artificial Intelligence Intern (Virtual)
-- Explored Generative AI, NLP, and prompt engineering concepts.
-- Worked on structured learning modules involving GPT-based workflows.
+- Explored Generative AI, NLP, and prompt engineering workflows.
+- Worked on structured AI learning modules and hands-on GPT-based tasks.
 
 ---
 
@@ -29,6 +29,7 @@ Passionate about building scalable web applications, solving real-world problems
 ### 🌊 CiviQ – Citizen Issue Management Platform
 MERN-based platform for reporting and managing civic issues with role-based access control and intelligent task assignment.
 
+**Tech:** React • Node.js • Express.js • MongoDB • JWT 
 🔗 [GitHub](https://github.com/sejalAS-1510/CiviQ-Project) • [Live Demo](https://civiqproject.vercel.app/)
 
 ---
@@ -36,6 +37,7 @@ MERN-based platform for reporting and managing civic issues with role-based acce
 ### 🎓 Nxt2Campus – College Predictor
 A full-stack web app that predicts colleges based on MHT-CET percentile and historical cutoff data.
 
+**Tech:** Node.js • Express.js • MongoDB • React 
 🔗 [GitHub](https://github.com/sejalAS-1510/college-eligibility) • [Live Demo](https://nxt2campus.onrender.com/)
 
 ---
@@ -43,6 +45,7 @@ A full-stack web app that predicts colleges based on MHT-CET percentile and hist
 ### 📈 EquiTrack – Real-Time Stock Tracker
 Live stock tracking dashboard with charts, API integration, and search functionality.
 
+**Tech:** JavaScript • Tailwind CSS • Chart.js  
 🔗 [GitHub](https://github.com/sejalAS-1510/Equitrack) • [Live Demo](https://equitrack-sepia.vercel.app/)
 
 ## 🌐 Socials:
