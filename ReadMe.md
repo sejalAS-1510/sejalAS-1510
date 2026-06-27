@@ -162,23 +162,20 @@ Real-time stock dashboard with live market API integration, Chart.js visualizati
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=sejalAS-1510&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sejalAS-1510&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=sejalAS-1510&theme=github_dark&hide_border=true"/>
-
+<img src="https://github-readme-stats.shion.dev/api?username=sejalAS-1510&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sejalAS-1510&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 <br/>
-
-<img src="https://ghchart.rshah.org/sejalAS-1510" width="100%"/>
-
+<img src="https://streak-stats.demolab.com/?user=sejalAS-1510&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<br/>
+<table style="background-color:#0d1117; border:1px solid #30363d; border-radius:6px; padding:16px;">
+<tr><td>
+<img src="https://ghchart.rshah.org/sejalAS-1510" alt="Sejal's Contribution Graph" width="100%"/>
+</td></tr>
+</table>
 </div>
-
 ---
 
 ## 📜 Certifications
