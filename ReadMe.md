@@ -176,6 +176,7 @@ Real-time stock dashboard with live market API integration, Chart.js visualizati
 </td></tr>
 </table>
 </div>
+
 ---
 
 ## 📜 Certifications
