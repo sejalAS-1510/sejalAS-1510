@@ -9,7 +9,7 @@
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sejalshinkar.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sejal-shinkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMGgtMTkuNUMxLjIzNSAwIC4wMDcgMS4yMi4wMDcgMi43MjV2MTguNTVDLjAwNyAyMi43OCAxLjIzNSAyNCAyLjcyNSAyNGgxOS41QzIzLjc3NSAyNCAyNSAyMi43OCAyNSAyMS4yNzVWMi43MjVDMjUgMS4yMiAyMy43NzUgMCAyMi4yMjUgMHoiLz48L3N2Zz4=)](https://linkedin.com/in/sejal-shinkar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sejal_shinkar/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sejalshinkar15)
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sejalshinkar15)
@@ -175,7 +175,7 @@ Real-time stock dashboard with live market API integration, Chart.js visualizati
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sejalAS-1510&theme=github_dark" width="100%"/>
+<img src="https://ghchart.rshah.org/sejalAS-1510" width="100%"/>
 
 </div>
 
@@ -193,7 +193,7 @@ Real-time stock dashboard with live market API integration, Chart.js visualizati
 
 *Let's build something meaningful together.*
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sejal-shinkar)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMGgtMTkuNUMxLjIzNSAwIC4wMDcgMS4yMi4wMDcgMi43MjV2MTguNTVDLjAwNyAyMi43OCAxLjIzNSAyNCAyLjcyNSAyNGgxOS41QzIzLjc3NSAyNCAyNSAyMi43OCAyNSAyMS4yNzVWMi43MjVDMjUgMS4yMiAyMy43NzUgMCAyMi4yMjUgMHoiLz48L3N2Zz4=)](https://linkedin.com/in/sejal-shinkar)
 [![Send a Mail](https://img.shields.io/badge/Send_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sejalshinkar1510@gmail.com)
 
 </div>
