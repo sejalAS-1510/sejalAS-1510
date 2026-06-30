@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I'm an **Information Technology Engineering** student at **PICT Pune (CGPA: 9.37)** passionate about building scalable, real-world web applications and solving meaningful problems.
+I'm an **Information Technology Engineering** student at **PICT Pune (CGPA: 9.42)** passionate about building scalable, real-world web applications and solving meaningful problems.
 
 - 🔨 &nbsp;**Currently building:** Full-stack projects that solve real-world problems
 - 🌱 &nbsp;**Exploring:** System Design, TypeScript, Docker, and modern backend architecture
