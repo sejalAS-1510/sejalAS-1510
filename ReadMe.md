@@ -168,7 +168,7 @@ Real-time stock dashboard with live market API integration, Chart.js visualizati
 &nbsp;
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sejalAS-1510&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 <br/>
-<img src="https://streak-stats.demolab.com/?user=sejalAS-1510&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=sejalAS-1510&theme=blue-green"/>
 <br/>
 <table style="background-color:#0d1117; border:1px solid #30363d; border-radius:6px; padding:16px;">
 <tr><td>
