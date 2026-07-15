@@ -164,7 +164,7 @@ Real-time stock dashboard with live market API integration, Chart.js visualizati
 ## 📊 GitHub Stats
  
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=sejalAS-1510&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats-sigma-two-50.vercel.app/api?username=sejalAS-1510&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 &nbsp;
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sejalAS-1510&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 <br/>
