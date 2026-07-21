@@ -172,7 +172,7 @@ Real-time stock dashboard with live market API integration, Chart.js visualizati
 <br/>
 <table style="background-color:#0d1117; border:1px solid #30363d; border-radius:6px; padding:16px;">
 <tr><td>
-<img src="https://ghchart.rshah.org/sejalAS-1510?&cache_seconds=0" alt="Sejal's Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/sejalAS-1510?cache_seconds=0" alt="Sejal's Contribution Graph" width="100%"/>
 </td></tr>
 </table>
 </div>
