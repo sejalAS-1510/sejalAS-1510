@@ -105,11 +105,20 @@ Real-time stock dashboard with live market API integration, Chart.js visualizati
 </details>
 
 <details>
-<summary><b>🤖 Artificial Intelligence Intern — Infosys Springboard</b> &nbsp;<em>(Virtual · Aug 2025)</em></summary>
+<summary><b>🤖 Artificial Intelligence Intern — Infosys Springboard</b> &nbsp;<em>(Virtual · Aug 2026)</em></summary>
 <br/>
 
-- Selected after clearing AI assessments under Pragati: Path to Future Cohort 8.
-- Worked on Generative AI, NLP pipelines, prompt engineering, and GPT-based model workflows.
+- Selected for the Infosys Springboard AI Internship (Pragati: Path to Future, Cohort 8) after clearing prerequisite
+AI learning pathways and technical assessments.
+- Building a Retrieval-Augmented Generation (RAG) pipeline for question-answering over a document knowledge
+base, using ChromaDB and sentence-transformers embeddings via Hugging Face, with Python/FastAPI backend
+components.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+
+[GitHub](https://github.com/sejalAS-1510/llm-response-eval-framework)
 
 </details>
 
