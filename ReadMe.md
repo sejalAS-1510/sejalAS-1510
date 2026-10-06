@@ -95,17 +95,13 @@ Real-time stock dashboard with live market API integration, Chart.js visualizati
 
 ## 💼 Experience
 
-<details>
-<summary><b>🧠 Technology & Product Pre-Intern — TPOBridge</b> &nbsp;<em>(Remote · Mar 2026 – Present)</em></summary>
+<b>🧠 Technology & Product Pre-Intern — TPOBridge</b> &nbsp;<em>(Remote · Mar 2026 – Present)</em>
 <br/>
 
 - Performed structured product testing to identify functional and usability issues across multiple user flows.
 - Designed test cases and documented bugs with structured feedback, improving platform stability and reliability.
 
-</details>
-
-<details>
-<summary><b>🤖 Artificial Intelligence Intern — Infosys Springboard</b> &nbsp;<em>(Virtual · Aug 2026)</em></summary>
+<b>🤖 Artificial Intelligence Intern — Infosys Springboard</b> &nbsp;<em>(Virtual · Aug 2026)</em>
 <br/>
 
 - Selected for the Infosys Springboard AI Internship (Pragati: Path to Future, Cohort 8) after clearing prerequisite
@@ -119,8 +115,6 @@ components.
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
 
 [GitHub](https://github.com/sejalAS-1510/llm-response-eval-framework)
-
-</details>
 
 ---
 
