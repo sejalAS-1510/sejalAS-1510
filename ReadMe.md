@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm Sejal Shinkar</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer;AI+%26+LLM+Application+Developer;RAG+%7C+Multi-Agent+Systems;Java+%7C+DSA+Enthusiast;Hackathon+Builder+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer;AI+%26+LLM+Application+Developer;RAG+%7C+Multi-Agent+Systems;Java+%7C+DSA+Enthusiast;Hackathon+Builder+%F0%9F%9A%80" alt="Typing SVG" />
 <br/>
 <p>
   <strong>IT Engineering Student @ PICT Pune · CGPA 9.42</strong><br/>
